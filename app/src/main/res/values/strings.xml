@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseDatabase</string>
+    <string name="phone">phone number</string>
+    <string name="name">name</string>
+    <string name="register">Register</string>
+    <string name="authorization">Authorization</string>
+    <string name="text">Please enter your phone number and name to register</string>
+    <string name="confirm">Enter the code from the SMS to confirm the telephone number</string>
+    <string name="next">Next</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="retrived_data">Retrived data</string>
+    <string name="code">code</string>
+
+</resources>
